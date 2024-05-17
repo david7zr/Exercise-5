@@ -1,4 +1,4 @@
-#Exercise-5
+#Exercise 5
 
 The final grade of a computer science student is calculated based on the grades of four
 aspects of their academic performance: participation, first midterm exam, second midterm
